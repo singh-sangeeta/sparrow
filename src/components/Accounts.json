@@ -1,0 +1,109 @@
+ 
+  {
+          "kind": "analytics#accountSummaries",
+          "username": "braden@sparrowcharts.com",
+          "totalResults": 2,
+          "startIndex": 1,
+          "itemsPerPage": 1000,
+          "items": [
+              {
+                  "id": "186481597",
+                  "kind": "analytics#accountSummary",
+                  "name": "Los Ocampo",
+                  "webProperties": [
+                      {
+                          "kind": "analytics#webPropertySummary",
+                          "id": "UA-186481597-1",
+                          "name": "losocampo",
+                          "internalWebPropertyId": "257739829",
+                          "level": "STANDARD",
+                          "websiteUrl": "https://losocampo.com",
+                          "profiles": [
+                              {
+                                  "kind": "analytics#profileSummary",
+                                  "id": "235148853",
+                                  "name": "All Web Site Data",
+                                  "type": "WEB"
+                              }
+                          ]
+                      },
+                      {
+                          "kind": "analytics#webPropertySummary",
+                          "id": "UA-186481597-2",
+                          "name": "machete",
+                          "internalWebPropertyId": "257763495",
+                          "level": "STANDARD",
+                          "websiteUrl": "https://machetecm.com/",
+                          "profiles": [
+                              {
+                                  "kind": "analytics#profileSummary",
+                                  "id": "235141348",
+                                  "name": "All Web Site Data",
+                                  "type": "WEB"
+                              }
+                          ]
+                      }
+                  ]
+              },
+              {
+                  "id": "146901337",
+                  "kind": "analytics#accountSummary",
+                  "name": "sparrow",
+                  "webProperties": [
+                      {
+                          "kind": "analytics#webPropertySummary",
+                          "id": "UA-146901337-2",
+                          "name": "Google Workspace Marketplace",
+                          "internalWebPropertyId": "285904297",
+                          "level": "STANDARD",
+                          "websiteUrl": "https://workspace.google.com/marketplace/app/sparrow/884437570161",
+                          "profiles": [
+                              {
+                                  "kind": "analytics#profileSummary",
+                                  "id": "250904726",
+                                  "name": "All Web Site Data",
+                                  "type": "WEB"
+                              }
+                          ]
+                      },
+                      {
+                          "kind": "analytics#webPropertySummary",
+                          "id": "UA-146901337-3",
+                          "name": "roadmap",
+                          "internalWebPropertyId": "290788903",
+                          "level": "STANDARD",
+                          "websiteUrl": "https://roadmap.sparrowcharts.com",
+                          "profiles": [
+                              {
+                                  "kind": "analytics#profileSummary",
+                                  "id": "253774595",
+                                  "name": "All Web Site Data",
+                                  "type": "WEB"
+                              }
+                          ]
+                      },
+                      {
+                          "kind": "analytics#webPropertySummary",
+                          "id": "UA-146901337-1",
+                          "name": "sparrowcharts",
+                          "internalWebPropertyId": "208861636",
+                          "level": "STANDARD",
+                          "websiteUrl": "http://www.sparrowcharts.com",
+                          "profiles": [
+                              {
+                                  "kind": "analytics#profileSummary",
+                                  "id": "201192684",
+                                  "name": "All Web Site Data",
+                                  "type": "WEB"
+                              },
+                              {
+                                  "kind": "analytics#profileSummary",
+                                  "id": "237292007",
+                                  "name": "blog",
+                                  "type": "WEB"
+                              }
+                                            ]                          
+                      }
+                  ]
+              }]
+  }
